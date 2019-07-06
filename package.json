@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-fetch",
-  "version": "7.0.0-prerelease",
+  "version": "7.2.0-prerelease",
   "description": "PouchDB's fetch() method.",
   "main": "./lib/index.js",
   "keywords": [],
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "fetch-cookie": "0.7.0",
-    "node-fetch": "^2.0.0"
+    "node-fetch": "2.4.1"
   },
   "module": "./lib/index.es.js",
   "files": [
