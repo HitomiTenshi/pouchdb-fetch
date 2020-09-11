@@ -15,7 +15,7 @@
   "dependencies": {
     "abort-controller": "3.0.0",
     "fetch-cookie": "0.7.3",
-    "node-fetch": "2.4.1"
+    "node-fetch": "2.6.1"
   },
   "module": "./lib/index.es.js",
   "files": [
